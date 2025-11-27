@@ -7,3 +7,6 @@ void init_syscall() { }
 void sys_print(const char *s) {
     driver_write(s);
 }
+
+
+fcyytfyt
